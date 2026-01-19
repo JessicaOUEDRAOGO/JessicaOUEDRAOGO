@@ -1,5 +1,3 @@
-# Jessica Ouedraogo
-
 Electromechanical Engineer  
 XR / AR / VR · Unity · Unreal Engine · Computer Vision
 
@@ -57,23 +55,18 @@ Immersive real-time virtual environment developed using Unreal Engine for intera
 
 ## 👁️ Computer Vision Projects
 
-### automatic firearm detection
+### Real-Time firearm detection
 This project focuses on automatic firearm detection using computer vision and deep learning.
 It combines real-time object detection, IP camera video surveillance, and augmented reality to address two strategic use cases:
 
 Immersive military training using augmented reality
 Security-oriented monitoring through intelligent video surveillance systems 
-![automatic firearm detection Demo](LINK_TO_YOUR_GIF)
+![Real-Time firearm detection Demo](LINK_TO_YOUR_GIF)
 
 ---
 
-### Computer Vision Project 2
+### Real-Time Defect Detection in a Multi-Station Assembly Line
+This project presents a computer vision–based quality control system designed for a snowshoe assembly cell composed of six sequential assembly stations.
 Application of computer vision techniques for detection, analysis, or classification tasks.  
-![Computer Vision Project 2 Demo](LINK_TO_YOUR_GIF)
+![Real-Time Defect Detection Demo](LINK_TO_YOUR_GIF)
 
----
-
-## 📫 Contact
-
-- GitHub: https://github.com/USERNAME
-- LinkedIn: (optional)
