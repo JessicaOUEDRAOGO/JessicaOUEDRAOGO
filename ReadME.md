@@ -21,7 +21,7 @@ My work focuses on real-time 3D environments, virtual and augmented reality, and
       </ul>
     </td>
     <td style="width:25%; vertical-align:top; text-align:center;">
-      <img src="Portfolio/About_Education/logo_ensam.jpg" width="140" alt="ENSAM logo">
+      <img src=https://github.com/JessicaOUEDRAOGO/Portfolio/blob/main/About_Education/logo_ensam.jpg width="140" alt="ENSAM logo">
     </td>
   </tr>
 
@@ -35,7 +35,7 @@ My work focuses on real-time 3D environments, virtual and augmented reality, and
       </ul>
     </td>
     <td style="width:25%; vertical-align:top; text-align:center;">
-      <img src="https://github.com/JessicaOUEDRAOGO/Portfolio/blob/main/About_Education/ENSAM.jpg" width="120">
+      <img src="https://github.com/JessicaOUEDRAOGO/Portfolio/blob/main/About_Education/ENSAM.jpg" width="140">
     </td>
   </tr>
 </table>
