@@ -13,7 +13,7 @@ My work focuses on real-time 3D environments, virtual and augmented reality, and
 |---|---|
 | **Double Degree (in progress)**<br><br>  
 **Master’s Degree (M2) in Management of Interactive 3D Technologies – Digital Engineering**  
-<em>Arts et Métiers Institute of Technology (ENSAM), 71100 Chalon-sur-Saône, France</em><br>|
+<em>Arts et Métiers Institute of Technology (ENSAM), 71100 Chalon-sur-Saône, France</em>|
 <img src="About_Education/logo_ensam.jpg" width="120"/> |
 | **State Engineering Degree**<br><br>  
 **Electromechanical Engineering – Control and Industrial Management**
