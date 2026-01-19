@@ -35,6 +35,8 @@ Multi-user VR classroom designed to enable real-time collaboration and immersive
 
 ![classRoom](https://github.com/user-attachments/assets/26591270-33df-4bfa-af63-5d0ca5c7b92b)
 
+More details available in the project documentation:  
+[**unity/classRoomCollaborative**] (https://github.com/JessicaOUEDRAOGO/Portfolio/tree/main/unity/classRoomCollaborative)
 ---
 
 ### Parkinson Awareness (VR)
