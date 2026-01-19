@@ -45,7 +45,7 @@ The project aims to promote empathy and understanding through an accessible and 
 
 ---
 
-## 🕶️ Unreal Engine Projects
+## Unreal Engine Projects
 
 ### Virtual Environment Simulation
 Immersive real-time virtual environment developed using Unreal Engine for interactive simulation purposes.  
@@ -53,7 +53,7 @@ Immersive real-time virtual environment developed using Unreal Engine for intera
 
 ---
 
-## 👁️ Computer Vision Projects
+## Computer Vision Projects
 
 ### Real-Time firearm detection
 This project focuses on automatic firearm detection using computer vision and deep learning.
