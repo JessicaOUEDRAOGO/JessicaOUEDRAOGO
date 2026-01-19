@@ -9,18 +9,21 @@ My work focuses on real-time 3D environments, virtual and augmented reality, and
 ## Academic Background
 
 
+## 🎓 Academic Background
+
 | Education | Institution |
 |---|---|
 | **Double Degree (in progress)**<br><br>  
 **Master’s Degree (M2) in Management of Interactive 3D Technologies – Digital Engineering**<br>  
 Arts et Métiers Institute of Technology (ENSAM)<br>  
 Chalon-sur-Saône, France |  
-<img src="Portfolio/About_Education/logo_ensam.jpg" width="120"/> |
+<img src="About_Education/logo_ensam.jpg" width="120"/> |
 | **State Engineering Degree**<br><br>  
 **Electromechanical Engineering – Control and Industrial Management**<br>  
 École Nationale Supérieure d’Arts et Métiers (ENSAM)<br>  
 Meknes, Morocco |  
-<img src="Portfolio/About_Education/ENSAM.jpg" width="120"/> |
+<img src="About_Education/ENSAM.jpg" width="120"/> |
+
 
 
 ---
