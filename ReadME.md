@@ -6,7 +6,6 @@ My work focuses on real-time 3D environments, virtual and augmented reality, and
 
 ---
 
-## Academic Background
 
 <h2> Academic Background</h2>
 
@@ -22,7 +21,7 @@ My work focuses on real-time 3D environments, virtual and augmented reality, and
       </ul>
     </td>
     <td style="width:25%; vertical-align:top; text-align:center;">
-      <img src="About_Education/logo_ensam.jpg" width="140" alt="ENSAM logo">
+      <img src="Portfolio/About_Education/logo_ensam.jpg" width="140" alt="ENSAM logo">
     </td>
   </tr>
 
@@ -36,7 +35,7 @@ My work focuses on real-time 3D environments, virtual and augmented reality, and
       </ul>
     </td>
     <td style="width:25%; vertical-align:top; text-align:center;">
-      <img src="About_Education/ENSAM.jpg" width="140" alt="ENSAM Meknes logo">
+      <img src="Portfolio/About_Education/ENSAM.jpg" width="140" alt="ENSAM Meknes logo">
     </td>
   </tr>
 </table>
