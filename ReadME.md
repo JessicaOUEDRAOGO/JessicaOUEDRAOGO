@@ -8,25 +8,38 @@ My work focuses on real-time 3D environments, virtual and augmented reality, and
 
 ## Academic Background
 
+<h2> Academic Background</h2>
 
+<table>
+  <tr>
+    <td style="width:75%; vertical-align:top;">
+      <strong>Double Degree (in progress)</strong><br><br>
+      <strong>Master’s Degree (M2) in Management of Interactive 3D Technologies – Digital Engineering</strong><br>
+      <em>Arts et Métiers Institute of Technology (ENSAM) — Chalon-sur-Saône, France</em><br>
+      <ul>
+        <li>Focus: Interactive 3D technologies &amp; digital engineering</li>
+        <li>XR: Virtual Reality &amp; Augmented Reality</li>
+      </ul>
+    </td>
+    <td style="width:25%; vertical-align:top; text-align:center;">
+      <img src="About_Education/logo_ensam.jpg" width="140" alt="ENSAM logo">
+    </td>
+  </tr>
 
-| Education | |
-|---|---|
-| <strong>Double Degree (in progress)</strong><br>
-<strong>Master’s Degree (M2) in Management of Interactive 3D Technologies – Digital Engineering</strong><br>
-<em>Arts et Métiers Institute of Technology (ENSAM) — Chalon-sur-Saône, France</em>
-<ul>
-  <li>Focus: Interactive 3D technologies & digital engineering</li>
-  <li>XR: Virtual Reality & Augmented Reality</li>
-</ul>
-| <img src="About_Education/logo_ensam.jpg" width="120"> |
-| <strong>State Engineering Degree</strong><br>
-<strong>Electromechanical Engineering – Control and Industrial Management</strong><br>
-<em>École Nationale Supérieure d’Arts et Métiers (ENSAM) — Meknes, Morocco</em>
-<ul>
-  <li>Control systems & industrial management</li>
-</ul>
-| <img src="About_Education/ENSAM.jpg" width="120"> |
+  <tr>
+    <td style="width:75%; vertical-align:top;">
+      <strong>State Engineering Degree</strong><br><br>
+      <strong>Electromechanical Engineering – Control and Industrial Management</strong><br>
+      <em>École Nationale Supérieure d’Arts et Métiers (ENSAM) — Meknes, Morocco</em><br>
+      <ul>
+        <li>Control systems &amp; industrial management</li>
+      </ul>
+    </td>
+    <td style="width:25%; vertical-align:top; text-align:center;">
+      <img src="About_Education/ENSAM.jpg" width="140" alt="ENSAM Meknes logo">
+    </td>
+  </tr>
+</table>
 
 
 
