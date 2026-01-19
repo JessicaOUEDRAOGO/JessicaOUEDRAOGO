@@ -37,14 +37,13 @@ Multi-user VR classroom designed to enable real-time collaboration and immersive
 
 ---
 
-### Parkinson Rehabilitation (VR)
 ### Parkinson Awareness (VR)
 Immersive virtual reality experience designed to raise awareness about Parkinson’s disease by simulating motor impairments such as hand tremors and loss of precision.
 
 Through everyday tasks like drawing, picking up objects, and precise manipulation, users experience the motor difficulties faced by people living with Parkinson’s disease.  
 The project aims to promote empathy and understanding through an accessible and intuitive VR interaction.
 
-![Parkinson Rehabilitation Demo](LINK_TO_YOUR_GIF)
+![Parkinson Awareness Demo](LINK_TO_YOUR_GIF)
 
 ---
 
@@ -58,9 +57,13 @@ Immersive real-time virtual environment developed using Unreal Engine for intera
 
 ## 👁️ Computer Vision Projects
 
-### Computer Vision Project 1
-Computer vision project focused on image analysis and visual data processing.  
-![Computer Vision Project 1 Demo](LINK_TO_YOUR_GIF)
+### automatic firearm detection
+This project focuses on automatic firearm detection using computer vision and deep learning.
+It combines real-time object detection, IP camera video surveillance, and augmented reality to address two strategic use cases:
+
+Immersive military training using augmented reality
+Security-oriented monitoring through intelligent video surveillance systems 
+![automatic firearm detection Demo](LINK_TO_YOUR_GIF)
 
 ---
 
