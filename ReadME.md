@@ -1,3 +1,5 @@
+> 🇬🇧 This profile is written in English.
+
 Electromechanical Engineer  
 XR / AR / VR · Unity · Unreal Engine · Computer Vision
 
