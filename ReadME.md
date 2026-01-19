@@ -31,7 +31,9 @@ Each project includes a short description and a visual demo (GIF or video).
 
 ### Classroom Collaborative (VR)
 Multi-user VR classroom designed to enable real-time collaboration and immersive learning experiences.  
-![Classroom Collaborative Demo](LINK_TO_YOUR_GIF)
+
+
+![classRoom](https://github.com/user-attachments/assets/26591270-33df-4bfa-af63-5d0ca5c7b92b)
 
 ---
 
@@ -41,7 +43,8 @@ Immersive virtual reality experience designed to raise awareness about Parkinson
 Through everyday tasks like drawing, picking up objects, and precise manipulation, users experience the motor difficulties faced by people living with Parkinson’s disease.  
 The project aims to promote empathy and understanding through an accessible and intuitive VR interaction.
 
-![Parkinson Awareness Demo](LINK_TO_YOUR_GIF)
+
+![parkison](https://github.com/user-attachments/assets/d3f08d9e-338a-41f6-a803-ce86bf8624b3)
 
 ---
 
@@ -61,7 +64,8 @@ It combines real-time object detection, IP camera video surveillance, and augmen
 
 Immersive military training using augmented reality
 Security-oriented monitoring through intelligent video surveillance systems 
-![Real-Time firearm detection Demo](LINK_TO_YOUR_GIF)
+
+![Firearmvideo](https://github.com/user-attachments/assets/8469fc1f-2440-4a14-ab0a-9b8e2f4aea3a)
 
 ---
 
