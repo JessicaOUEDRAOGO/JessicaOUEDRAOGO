@@ -68,7 +68,7 @@ Security-oriented monitoring through intelligent video surveillance systems
 ![Firearmvideo](https://github.com/user-attachments/assets/8469fc1f-2440-4a14-ab0a-9b8e2f4aea3a)
 
 More details available in the project documentation:  
-**Computer-Vision / Real-Time Firearm Detection**
+[**Computer-Vision / Real-Time Firearm Detection**](https://github.com/JessicaOUEDRAOGO/Portfolio/tree/main/Computer-Vision/Real-Time%20Firearm%20Detection)
 
 
 ---
