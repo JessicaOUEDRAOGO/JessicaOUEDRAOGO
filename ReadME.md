@@ -38,7 +38,12 @@ Multi-user VR classroom designed to enable real-time collaboration and immersive
 ---
 
 ### Parkinson Rehabilitation (VR)
-Virtual reality application focused on motor rehabilitation scenarios and therapeutic interaction.  
+### Parkinson Awareness (VR)
+Immersive virtual reality experience designed to raise awareness about Parkinson’s disease by simulating motor impairments such as hand tremors and loss of precision.
+
+Through everyday tasks like drawing, picking up objects, and precise manipulation, users experience the motor difficulties faced by people living with Parkinson’s disease.  
+The project aims to promote empathy and understanding through an accessible and intuitive VR interaction.
+
 ![Parkinson Rehabilitation Demo](LINK_TO_YOUR_GIF)
 
 ---
