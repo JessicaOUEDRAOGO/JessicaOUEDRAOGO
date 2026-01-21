@@ -106,10 +106,9 @@ More details available in the project documentation:
 ---
 
 ### Real-Time Defect Detection in a Multi-Station Assembly Line
-This project presents a computer vision–based quality control system designed for a snowshoe assembly cell composed of six sequential assembly stations.
-Application of computer vision techniques for detection, analysis, or classification tasks.  
+End-to-end industrial computer vision project for real-time quality control in a multi-station assembly line, combining station recognition and progressive defect detection to improve production efficiency and reduce rework.
 
 ![Industrial_Quality_Control_video](https://github.com/JessicaOUEDRAOGO/Portfolio/blob/main/Computer-Vision/AI-for-Industrial-Quality-Control/AI.gif)
 
 More details available in the project documentation: 
-[**Computer-Vision / Industrial_Quality_Control**]
+[**Computer-Vision / AI-for-Industrial-Quality-Control**](https://github.com/JessicaOUEDRAOGO/Portfolio/tree/main/Computer-Vision/AI-for-Industrial-Quality-Control)
