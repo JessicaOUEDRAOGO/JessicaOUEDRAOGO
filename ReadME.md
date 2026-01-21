@@ -1,10 +1,9 @@
 > 🇬🇧 This profile is written in English.
 
-Electromechanical Engineer  
-XR / AR / VR · Unity · Unreal Engine · Computer Vision
+Electromechanical Engineer specializing in **computer vision and immersive technologies**, developing real-time intelligent systems combining **AI, AR/VR, and 3D environments** for industrial, training, and security applications.
 
-I am an engineer with a strong interest in immersive technologies and intelligent systems.  
-My work focuses on real-time 3D environments, virtual and augmented reality, and computer vision, with applications in education, collaboration, and industry.
+I design applied solutions at the intersection of **artificial intelligence, extended reality, and real-world systems**, with a strong focus on system integration, perception, and interactive technologies.
+
 
 ---
 
