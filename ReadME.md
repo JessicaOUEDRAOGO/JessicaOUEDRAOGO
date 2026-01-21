@@ -91,11 +91,7 @@ Immersive real-time virtual environment developed using Unreal Engine for intera
 ## Computer Vision Projects
 
 ### Real-Time firearm detection
-This project focuses on automatic firearm detection using computer vision and deep learning.
-It combines real-time object detection, IP camera video surveillance, and augmented reality to address two strategic use cases:
-
-Immersive military training using augmented reality
-Security-oriented monitoring through intelligent video surveillance systems 
+End-to-end computer vision project integrating real-time firearm detection, augmented reality training, and intelligent video surveillance, designed for military education and security monitoring. 
 
 ![Firearmvideo](https://github.com/user-attachments/assets/8469fc1f-2440-4a14-ab0a-9b8e2f4aea3a)
 
